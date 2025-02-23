@@ -1,5 +1,5 @@
 # 💫 About Me:
-a sophomore computer science student trying to survive ts
+an overstimulated computer science student trying to survive ts
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@ a sophomore computer science student trying to survive ts
 ![](https://github-readme-streak-stats.herokuapp.com/?user=markvncent&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=markvncent&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Keep Motivated
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
