@@ -1,5 +1,5 @@
 # 💫 About Me:
-an overstimulated computer science student trying to survive ts
+a burnt out computer science student trying to survive ts
 
 
 ## 🌐 Socials:
